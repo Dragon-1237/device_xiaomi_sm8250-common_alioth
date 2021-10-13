@@ -139,5 +139,3 @@ ro.sf.blurs_are_expensive=1
 
 # Disable vsync for cpu rendered apps
 debug.cpurend.vsync=false
-
-
